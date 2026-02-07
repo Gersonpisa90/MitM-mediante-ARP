@@ -154,4 +154,8 @@ ARP no tiene autenticación, por lo que la defensa efectiva requiere **múltiple
 
 Sin estas medidas, cualquier equipo en la misma LAN puede ejecutar un MitM.
 
+# VIDEO
+https://youtu.be/-xionq8dSoE
+
+
 
